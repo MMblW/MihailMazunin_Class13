@@ -1,0 +1,9 @@
+﻿  Class_13_p3.cpp
+C:\Users\Admin\source\repos\Class_13_p3\Third_Task.h(108,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Class_13_p3.cpp")
+  
+C:\Users\Admin\source\repos\Class_13_p3\Third_Task.h(108,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Class_13_p3.cpp")
+  
+C:\Users\Admin\source\repos\Class_13_p3\Class_13_p3.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Class_13_p3.vcxproj -> C:\Users\Admin\source\repos\Class_13_p3\x64\Debug\Class_13_p3.exe
